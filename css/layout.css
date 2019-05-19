@@ -1,0 +1,135 @@
+#a {
+  width: 480px;
+  height: 75px;
+  background-color: mediumslateblue;
+  line-height: 75px;
+}
+
+#b {
+  width: 480px;
+  height: 150px;
+  background-color: mediumblue;
+  line-height: 150px;
+}
+
+#c {
+  width: 480px;
+  height: 125px;
+  background-color: mediumseagreen;
+  line-height: 125px;
+}
+
+#d {
+  width: 480px;
+  height: 125px;
+  background-color: moccasin;
+  line-height: 125px;
+}
+
+#e {
+  width: 240px;
+  height: 250px;
+  background-color: magenta;
+  line-height: 250px;
+}
+
+#f {
+  width: 240px;
+  height: 250px;
+  background-color: mintcream;
+  line-height: 250px;
+}
+
+#g {
+  width: 240px;
+  height: 250px;
+  background-color: midnightblue;
+  line-height: 250px;
+}
+
+#h {
+  width: 240px;
+  height: 250px;
+  background-color: mediumturquoise;
+  line-height: 250px;
+}
+
+#i {
+  width: 480px;
+  height: 80px;
+  background-color: maroon;
+  line-height: 80px;
+}
+
+@media only screen and (min-width: 768px) {
+
+  body {
+    width: 960px;
+    margin: 0px auto;
+  }
+
+
+  #a {
+    width: 960px;
+    height: 100px;
+    background-color: aqua;
+    line-height: 100px;
+  }
+
+  #b {
+    width: 200px;
+    height: 600px;
+    background-color: blueviolet;
+    line-height: 600px;
+  }
+
+  #c {
+    width: 380px;
+    height: 200px;
+    background-color: cornflowerblue;
+    line-height: 200px;
+  }
+
+  #d {
+    width: 380px;
+    height: 200px;
+    background-color: darkorange;
+    line-height: 200px;
+  }
+
+  #e {
+    width: 190px;
+    height: 250px;
+    background-color: darkkhaki;
+    line-height: 250px;
+  }
+
+  #f {
+    width: 190px;
+    height: 250px;
+    background-color: forestgreen;
+    line-height: 250px;
+  }
+
+  #g {
+    width: 190px;
+    height: 250px;
+    background-color: greenyellow;
+    line-height: 250px;
+  }
+
+  #h {
+    width: 190px;
+    height: 250px;
+    background-color: honeydew;
+    line-height: 250px;
+  }
+
+  #i {
+    width: 760px;
+    height: 150px;
+    background-color: indigo;
+    line-height: 150px;
+  }
+
+}
